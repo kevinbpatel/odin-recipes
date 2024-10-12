@@ -1,0 +1,26 @@
+
+body {
+    font-family: 'Nunito', sans-serif;
+
+}
+
+h1 { 
+    text-align: center;
+    color: white;
+    background-color: cornflowerblue;
+}
+
+
+.ice-cream { 
+    text-align: center;
+}
+
+h2 { 
+    background-color: darkorange;
+    color: white;
+}
+
+h3 { 
+    color: white;
+    background-color: black;
+}
