@@ -12,7 +12,8 @@ h1 {
 
 
 .ice-cream { 
-    text-align: center;
+    margin: auto;
+    display: block;
 }
 
 h2 { 
